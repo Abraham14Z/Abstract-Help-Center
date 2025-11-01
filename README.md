@@ -16,7 +16,7 @@ This project faithfully recreates the design and layout of [help.goabstract.com]
 
 ---
 
-#### Tech Stack
+### Tech Stack
 - **HTML5** (semantic, accessible)
 - **CSS3** (Flexbox + Grid)
 - **Google Fonts:** Work Sans
