@@ -237,6 +237,7 @@ input {
     padding: 1rem;
     border-radius: 15px;
   }
+}
 /* When the browser is at maximum 767px and less */
 /* =====RESPONSIVE: MOBILE NAV===== */
 @media screen and (max-width: 767px) {
