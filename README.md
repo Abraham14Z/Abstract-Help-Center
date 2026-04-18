@@ -5,10 +5,13 @@ A responsive, semantic HTML & CSS-only recreation of the **Abstract Help Center 
 
 ---
 
-## Project Overview
+# Project Overview
 This project faithfully recreates the design and layout of [help.goabstract.com](https://help.goabstract.com/hc/en-us) using **only HTML and CSS** — no JavaScript or frameworks.
 
-## Features
+## Goal
+The goal is to demonstrate how to build a visually appealing and responsive website using fundamental web technologies, showcasing skills in layout, typography, and responsive design.
+
+### Features
 - Semantic, accessible HTML5 structure
 - Clean, well-commented external CSS
 - Responsive design for mobile, tablet, and desktop
@@ -17,14 +20,14 @@ This project faithfully recreates the design and layout of [help.goabstract.com]
 
 ---
 
-### Tech Stack
+##### Tech Stack
 - **HTML5** (semantic, accessible)
 - **CSS3** (Flexbox + Grid)
 - **Google Fonts:** Work Sans
 
 ---
 
-## 📱 Responsive Breakpoints
+###### 📱 Responsive Breakpoints
 | Device | Width Range |
 |---------|--------------|
 | Mobile | 320px–767px |
@@ -33,7 +36,7 @@ This project faithfully recreates the design and layout of [help.goabstract.com]
 
 ---
 
-## Notes ##
+####### Notes
 
 - The design uses #191a1b as the primary brand color.
 - Fonts: Work Sans 400/500/600
